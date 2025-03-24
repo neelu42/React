@@ -1,5 +1,5 @@
 ## Must-reads before starting
-
+hello
 Before learning React, you need to understand a couple of things first.
 
 1. React makes use of the latest [JavaScript features](https://www.youtube.com/watch?v=NCwa_xi0Uuc), like [classes](https://medium.com/beginners-guide-to-mobile-web-development/javascript-introduction-to-es6-classes-ecb2db9fe985), [destructuring](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f) and [higher order functions](https://www.sitepoint.com/higher-order-functions-javascript/).
